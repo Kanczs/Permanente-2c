@@ -1,4 +1,4 @@
-# Permanente-2a
+# Permanente-2c
 
 Este programa es un minijuego hecho en python que nos permite jugar al pinpong con alguien mas, ya que cuenta con 2 marcadores para que estos pueden ver la puntuacion de cada uno, tambien pueden aumentar la velocidad de la pelota para que esta vay mas rapida segun sus preferencias.
 
